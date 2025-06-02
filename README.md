@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Mohammed Hamad
 
 Full-stack developer passionate about creating efficient and elegant web solutions. I specialize in building robust applications using modern technologies.
@@ -7,11 +5,38 @@ Full-stack developer passionate about creating efficient and elegant web solutio
 ## 🚀 Tech Stack
 
 - **Backend**: PHP - Laravel
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, Vue.js
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, Vue.js, Livewire
 - **Database**: MySQL
 - **Tools**: Git
 - **Other**: RESTful APIs, MVC Architecture, Design Patterns
-- 
+
+## 🔭 Current Project
+
+Currently working on Cars-Souq, a modern vehicle marketplace with auction platform built with Laravel.
+
+## 💼 Skills
+
+- Full-stack Web Development
+- Database Design & Optimization
+- API Development
+- UI/UX Implementation
+- System Architecture
+- DevOps & Deployment
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+- Website: [Your Portfolio]
+
+## 🌟 Featured Projects
+
+- **Cars-Souq**: Modern vehicle marketplace platform
+- **Pioneer-Group**: Shipping Company site to keep customers in touch
+- **Tarfih**: Real estates rent App
+
+---
+⭐️ From [Mohmd92](https://github.com/Mohmd92)
 
 <!--
 **Mohmd92/Mohmd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
