@@ -25,9 +25,8 @@ Currently working on Cars-Souq, a modern vehicle marketplace with auction platfo
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- Website: [Your Portfolio]
+- LinkedIn: [Mohammed Hamad](https://www.linkedin.com/in/mohammed-hamad-490649a8/)
+- Email: mode4007@gmail.com
 
 ## 🌟 Featured Projects
 
