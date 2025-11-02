@@ -5,7 +5,7 @@ IOS developer passionate about creating efficient and elegant apps. I specialize
 ## 🚀 Tech Stack
 
 - **Backend**: Swift, Storyboard
-- **Tools**: Git - Githuv
+- **Tools**: Git - Github
 - **Other**: RESTful APIs - MVC, MVVM - Design Patterns, Solid Principles
 
 ## 🔭 Current Project
