@@ -39,6 +39,10 @@ Currently working on Shipping company app, enhance customer experience. The app 
 - **Care-Hub**: connect patients with certified home nurses and healthcare professionals for personalized in-home care.
 - **Resume-Builder**: help users create professional resumes quickly and efficiently. and export to PDF.
 
+### 💬 Languages
+- Arabic (Native).
+- English (Fluent).
+
 ---
 ⭐️ From [Mohmd92](https://github.com/Mohmd92)
 
