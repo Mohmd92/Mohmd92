@@ -6,7 +6,7 @@ IOS developer passionate about creating efficient and elegant apps. I specialize
 
 - **Backend**: Swift, Storyboard
 - **Tools**: Git - Github
-- **Other**: RESTful APIs - MVC, MVVM - Design Patterns, Solid Principles
+- **Other**: RESTful APIs - MVC, MVVM - Design Patterns, SOLID Principles
 
 ## 🔭 Current Project
 
@@ -15,9 +15,15 @@ Currently working on Shipping company app, enhance customer experience. The app 
 ## 💼 Skills
 
 - Responsive design (Multiple device screens).
-- Restful API.
+- RESTful API.
 - UI/UX Implementation
-- System Architecture
+- Software Architecture
+- SOLID Principles
+- Design Patterns
+- Problem Solving
+- Leadership
+- Team Work
+- Time Management
 
 ## 📫 How to Reach Me
 
