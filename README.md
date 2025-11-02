@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Hamad
 
-IOS developer passionate about creating efficient and elegant apps. I specialize in building robust applications using modern technologies.
+IOS Native developer passionate about creating efficient and elegant apps. I specialize in building robust applications using modern technologies.
 
 ## 🚀 Tech Stack
 
